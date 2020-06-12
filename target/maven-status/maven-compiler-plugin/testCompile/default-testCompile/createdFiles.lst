@@ -1,0 +1,11 @@
+test\BNStest.class
+base\BaseClass.class
+pages\BNSpage.class
+pages\FacebookPage.class
+test\FacebookTest.class
+test\FundTransferTest.class
+pages\BMICalculatePage.class
+pages\FundTransferPage.class
+test\BNSExcelDataTest.class
+test\BMICalculateTest.class
+datahelper\ExcelFileReader.class
